@@ -1,2 +1,2 @@
-# Hankyung-with-Toss-Education-MLOps
-한국경제신문 with Toss Bank MLOps 교육 과정 내용
+아래 깃허브를 참고해주세요!
+https://github.com/cwwojin/HKToss-Project.git
