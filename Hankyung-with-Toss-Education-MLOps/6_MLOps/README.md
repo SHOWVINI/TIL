@@ -1,0 +1,33 @@
+- MLOps
+
+https://www.notion.so/Hankyung-with-Toss-Education-MLOps-MLOps-127b89b9b6788091b77dc54f78a810be?pvs=4
+
+  - Linux 기반 환경 세팅
+  - Data & Model Management
+    - DVC
+    - MLFlow
+    - Feature Store
+  - Model Serving
+    - Flask
+  - Monitoring
+    - Prometheus
+    - Grafana
+    - Node 모니터링
+  - Container
+    - Docker
+    - Docker Image & Container
+    - 이미지와 컨테이너 관리
+    - Data Management, Volume
+    - 컨테이너 네트워크 통신
+    - 다중 컨테이너 실습
+    - Docker Compose
+  - CI/CD Pipeline
+    - ML Workflow: Github Actions, Jenkins
+    - Model Tracking & Experiment: CML, DVC-CML
+  - Project 연습: Docker 기반 MLOps CI/CD Pipeline
+    - FastAPI Serving API
+    - FastAPI - Prometheus Metric 수집
+    - Prometheus - Grafana 연동
+    - Locust Simulation
+    - Jenkins ML Model Changing
+    - Jenkins Monitoring
