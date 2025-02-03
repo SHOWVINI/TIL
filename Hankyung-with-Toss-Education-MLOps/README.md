@@ -16,7 +16,6 @@
 
 4. ML [Machine Learning]: **week4 ~ week8**
 
-
   - Mathematics for ML
 
 https://www.notion.so/Mathematics-for-ML-177b89b9b67880f8a4a4ca50e12d0035?pvs=4
