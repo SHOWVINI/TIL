@@ -1,0 +1,6 @@
+# For Data_Science, Artificial_Intelligence 
+
+jupyter
+numpy
+matplotlib
+pandas
