@@ -9,6 +9,7 @@
 ### Data_Science(Prof. Ji)
 ### Data_Science(Prof. Kim)
 ### Artificial_Intelligence
+### Introduction to Computer Vision
 
 ---
 
@@ -165,3 +166,35 @@
 - 15주: 기말고사
 
 ---
+
+### Introduction to Computer Vision
+
+- 1주: 과목 개요, 파이썬 프로그래밍, OpenCV 
+
+- 2주: 디지털 영상, 이진 영상 처리 
+
+- 3주: 에지 검출 
+
+- 4주: 지역 특징 검출 
+
+- 5주: 영상 분할 
+
+- 6주: 특징 기술 
+
+- 7주: 매칭 
+
+- 8주: 중간고사 
+
+- 9주: 기계 학습 
+
+- 10주: 기계 학습과 비전 
+
+- 11주: 컨볼루션 신경망 
+
+- 12주: 물체 검출 (Object detection) 
+
+- 13주: 카메라 구조와 스테레오 
+
+- 14주: 3차원 비전 
+
+- 15주: 기말고사 
