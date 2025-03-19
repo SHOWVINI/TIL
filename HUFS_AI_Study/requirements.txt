@@ -6,4 +6,10 @@ matplotlib
 pandas
 scikit-learn
 
+requests
+
+beautifulsoup4
+selenium
+webdriver-manager
+
 opencv-python
