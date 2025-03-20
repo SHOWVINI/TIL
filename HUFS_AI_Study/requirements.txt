@@ -5,6 +5,8 @@ numpy
 matplotlib
 pandas
 scikit-learn
+plotly
+mlxtend
 
 requests
 
