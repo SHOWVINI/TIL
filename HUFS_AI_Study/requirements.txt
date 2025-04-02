@@ -10,6 +10,8 @@ scikit-learn
 plotly
 mlxtend
 umap-learn
+pywaffle
+folium
 
 tensorflow
 torch>=2.0.0
