@@ -6,6 +6,8 @@ matplotlib
 seaborn
 pandas
 
+missingno
+
 scikit-learn
 plotly
 mlxtend
