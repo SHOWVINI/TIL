@@ -15,7 +15,9 @@ umap-learn
 pywaffle
 folium
 
-tensorflow
+tensorflow-macos 
+tensorflow-metal
+
 torch>=2.0.0
 torchvision>=0.15.0
 
