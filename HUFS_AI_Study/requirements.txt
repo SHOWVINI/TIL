@@ -15,6 +15,7 @@ umap-learn
 pywaffle
 folium
 imbalanced-learn
+xverse
 
 tensorflow-macos 
 tensorflow-metal
