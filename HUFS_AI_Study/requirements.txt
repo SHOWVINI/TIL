@@ -16,6 +16,7 @@ pywaffle
 folium
 imbalanced-learn
 xverse
+factor-analyzer
 
 tensorflow-macos 
 tensorflow-metal
