@@ -17,6 +17,7 @@ folium
 imbalanced-learn
 xverse
 factor-analyzer
+kagglehub
 
 tensorflow-macos 
 tensorflow-metal
