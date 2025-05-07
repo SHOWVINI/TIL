@@ -18,6 +18,7 @@ imbalanced-learn
 xverse
 factor-analyzer
 kagglehub
+pydotplus
 
 tensorflow-macos 
 tensorflow-metal
