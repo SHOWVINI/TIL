@@ -19,6 +19,9 @@ xverse
 factor-analyzer
 kagglehub
 pydotplus
+mglearn
+openpyxl
+yellowbrick
 
 tensorflow-macos 
 tensorflow-metal
