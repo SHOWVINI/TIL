@@ -24,6 +24,9 @@ openpyxl
 yellowbrick
 ace_tools
 
+pmdarima
+statsmodels
+
 tensorflow-macos 
 tensorflow-metal
 
