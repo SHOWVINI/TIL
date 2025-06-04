@@ -9,6 +9,7 @@ pandas
 missingno
 
 scikit-learn
+scikit-plot
 plotly
 mlxtend
 umap-learn
