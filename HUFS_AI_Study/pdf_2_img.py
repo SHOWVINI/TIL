@@ -1,7 +1,7 @@
 import fitz  # PyMuPDF
 import os
 
-pdf_path = '컴비_기말.pdf'
+pdf_path = '???.pdf'
 output_folder = 'pdf_images'
 os.makedirs(output_folder, exist_ok=True)
 

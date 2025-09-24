@@ -6,10 +6,70 @@
 
 ---
 
+### Linear Algebra
 ### Data_Science(Prof. Ji)
 ### Data_Science(Prof. Kim)
 ### Artificial_Intelligence
 ### Introduction to Computer Vision
+
+---
+
+### Linear Algebra
+
+        - 1주: Introduction to Vectors and Matrices  
+        벡터와 행렬에 대한 소개  
+
+        - 2주: Solving Linear Equations  
+        행렬을 통한 선형방정식 풀기  
+
+        - 실습 1: Vector의 시각화  
+
+        - 3주: Solving Linear Equations  
+        행렬을 통한 선형방정식 풀기  
+
+        - 4주: Solving Linear Equations  
+        행렬을 통한 선형방정식 풀기  
+
+        - 실습 2: Matrix 연산의 수행시간 확인 (GPU활용의 장점 이해)  
+
+        - 5주: Vector Spaces and SubSpaces  
+        벡터공간 및 부분공간의 이해  
+
+        - 6주: Vector Spaces and SubSpaces  
+        벡터공간 및 부분공간의 이해  
+
+        - 실습 3: Matrix 연산의 응용  
+
+        - 7주: Vector Spaces and SubSpaces  
+        벡터공간 및 부분공간의 이해  
+
+        - 8주: 중간고사  
+
+        - 9주: Eigenvalues and Eigenvectors  
+        고윳값과 고유벡터  
+
+        - 10주: Eigenvalues and Eigenvectors  
+        고윳값과 고유벡터  
+
+        - 실습 4: Eigenvalue/Eigenvector와 Diffusion Tensor Imaging  
+
+        - 11주: Orthogonality and Least Squares Approximations  
+        최소제곱법과 정사영  
+
+        - 12주: Orthogonality and Least Squares Approximations  
+        최소제곱법과 정사영  
+
+        - 실습 5: Least Squares Solutions  
+
+        - 13주: The Singular Value Decomposition (SVD)  
+        특잇값과 특잇값분해  
+
+        - 14주: Applications  
+        선형대수의 응용  
+
+        - 실습 6: SVD of digital images  
+
+        - 15주: 기말고사  
 
 ---
 
